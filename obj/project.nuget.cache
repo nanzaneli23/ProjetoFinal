@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "niAJEz4JZRQwjcVvVuSq+nq9qjPts9+FtXfHH1Oe5GrYfPdHhPHQcWvEXb+GuwlfYwLpD2/wLIrWt0aVXFKaOw==",
+  "dgSpecHash": "JTdO5iema/SAXI73UZ/WfgO0R4hm+WhxKsLzKzJHSknxzGB0WixKfw8pDwbUSbwYO3E7TV+wQ7SJ+aQuh680Gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\Sprint 3\\ProjetoFinal\\ProjetoFinal.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\Sprint 3\\Git\\ProjetoFinal\\ProjetoFinal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
