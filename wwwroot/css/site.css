@@ -1,0 +1,47 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color:bisque;
+}
+.text-center{
+    font-size:medium;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:burlywood;
+    border-radius:10px;
+}
+
+.logo {
+    height: 100px;
+    width: 90px;
+}
+.FotoInicial {
+    width: 100%;
+    height: 50px;
+    margin-left: 40px;
+}
+
+.Foto2 {
+    width: 100%;
+    height: 50px;
+    margin-left: 750px;
+    margin-top: -70px;
+}
+.col-md-4{
+    background-color:burlywood;
+    border-radius:10px;
+  
+}
